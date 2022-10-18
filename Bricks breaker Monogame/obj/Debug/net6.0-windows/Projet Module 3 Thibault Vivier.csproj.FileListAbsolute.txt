@@ -1,0 +1,174 @@
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.exe
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.deps.json
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.runtimeconfig.json
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.pdb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.AssemblyReference.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.AssemblyInfoInputs.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.AssemblyInfo.cs
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.CoreCompileInputs.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.CopyComplete
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\refint\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.pdb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\Projet Module 3 Thibault Vivier.genruntimeconfig.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Debug\net6.0-windows\ref\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\bricks.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\raquette.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Menu.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick1.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick10.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick11.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick12.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick13.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick14.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick15.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick16.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick17.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick18.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick19.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick2.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick20.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick21.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick22.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick23.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick24.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick25.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick3.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick4.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick5.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick6.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick7.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick8.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick9.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\balle.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map1.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\infos.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\PixelFont.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Shoot.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\BonusShoot.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\BonusBig.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\BonusSmall.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\RaquetteP.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick100.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick26.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick27.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick28.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick29.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick30.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick31.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick32.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick33.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick34.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick35.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick36.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick37.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick38.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick39.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick40.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick41.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick42.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick43.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick44.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick45.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick46.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick47.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick48.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick49.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick50.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick51.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick52.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick53.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick54.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick55.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick56.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick57.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick58.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick59.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick60.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick61.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick62.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick63.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick64.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick65.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick66.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick67.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick68.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick69.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick70.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick71.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick72.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick73.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick74.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick75.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick76.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick77.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick78.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick79.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick80.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick81.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick82.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick83.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick84.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick85.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick86.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick87.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick88.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick89.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick90.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick91.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick92.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick93.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick94.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick95.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick96.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick97.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick98.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\brick99.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\bloclFinal.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\bricks.tsx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\blocFinal.tsx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map2.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map3.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map4.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map5.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\BonusFire.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\BonusMulti.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\NainCome.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\NainAttack.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\NainFall.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\NainStay.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\play.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\raquetteB.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\flower.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Maps\map6.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\balleFire.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Mlevel1.wma
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Mlevel1.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Mlevel2.wma
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Mlevel2.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\bRules.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\Rules.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Debug\net6.0-windows\Content\bMenu.xnb

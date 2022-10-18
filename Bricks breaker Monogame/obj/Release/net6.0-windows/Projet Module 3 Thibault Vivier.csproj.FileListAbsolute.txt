@@ -1,0 +1,42 @@
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Content\bricks.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Content\Menu.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Content\raquette.xnb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Content\bricks.tsx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Content\map1.tmx
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Projet Module 3 Thibault Vivier.exe
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Projet Module 3 Thibault Vivier.deps.json
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Projet Module 3 Thibault Vivier.runtimeconfig.json
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Projet Module 3 Thibault Vivier.pdb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\MonoGame.Framework.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\SharpDX.XInput.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.AssemblyReference.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.AssemblyInfoInputs.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.AssemblyInfo.cs
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.CoreCompileInputs.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.csproj.CopyComplete
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\refint\Projet Module 3 Thibault Vivier.dll
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.pdb
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\Projet Module 3 Thibault Vivier.genruntimeconfig.cache
+C:\Users\VIVIER Thibault\Desktop\formation dev JV\Module 3 C# Monogame\Projet Module 3 Thibault Vivier\obj\Release\net6.0-windows\ref\Projet Module 3 Thibault Vivier.dll

@@ -1,0 +1,26 @@
+Projet soutenance Thibault Vivier Module 1 LUA
+
+Principe général du jeu :
+Jeu de survie/arcade avec un scoring, plus votre score est élevé plus la difficulté augmente
+
+Fonction obligatoire du jeu:
+
+- Un tank controlé par le joueur déplacement haut/bas et orientation 360° avec gauche et droite  OK
+- Si le joueur sort de la carte en haut il réaparrait en bas et inversement, idem sur les côtés OK
+- 3 points de vie au tank joueur OK
+- des obstacles qui bloquent les tirs  OK
+- des obstacles qui bloquent les déplacments OK
+- ennemi fixe pour démarrer, puis mobile, puis fixe mais qui attaque, puis mobile & attaque. Option : ajout d'ennemis supplémentaires  OK
+- un score qui fait évoluer le niveau de difficulté du jeu  OK
+- Implémenter les sons du jeu (tirs, déplacement du tank...)   Partiel
+
+
+Option si j'ai le temps :
+
+- Un écran de démarrage du jeu avec un bouton "Play" pour démarrer une nouvelle partie OK
+- Un tank ennemi "Boss" au bout d'un certain score OK
+- certains ennemi détruits laissent des vies à ramasser au sol
+- vitesse de déplacement plus rapide sur la route, plus lente sur le sable
+- des upgrades de tank à ramasser (cadence de tir, taille obus...)
+
+
